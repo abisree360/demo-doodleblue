@@ -26,5 +26,3 @@ async function startServer() {
 }
 
 startServer();
-
-app.js
